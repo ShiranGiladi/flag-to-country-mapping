@@ -1,4 +1,4 @@
-# Flag to Country Mapping System 🌍🏁
+# Flag to Country Mapping System 🏁🌍
 
 An interactive computer vision-powered geography application that combines hand gesture recognition with real-time world map visualization. Select country flags using intuitive hand gestures and watch as their locations are highlighted on a live world map display.
 
@@ -110,3 +110,8 @@ pip install python-dotenv
 3. **Geographic Coordinate Mapping**: Conversion from lat/lon to pixel coordinates
 4. **UI Rendering**: Flag grid and world map visualization
 5. **Data Management**: Country information and flag image caching
+
+## 🎞️ Demo
+
+https://github.com/user-attachments/assets/1468abf3-52ec-4d44-8170-139a4d5a7a02
+
